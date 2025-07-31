@@ -1,5 +1,6 @@
 class PrimeFactor:
     def of(self, number) -> []:
+        print("Let's Find out Prime Factor!")
         factors = []
         divisor = 2
         while number > 1:
